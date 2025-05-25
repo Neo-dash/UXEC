@@ -141,7 +141,7 @@ If you use UXEC in your research or academic project, please cite:
 ```bibtex
 @inproceedings{uxec2024,
   title     = {De l’émotion à la décision : cartographie de l’expérience client touristique par l’intelligence artificielle},
-  author    = {Kdayem, Moetez and Collaborator, X.},
+  author    = {Achraf Kacem and Souad Maghraoui},
   booktitle = {Proceedings of the XX Conference on UX and Spatial Marketing},
   year      = {2024}
 }
